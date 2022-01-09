@@ -1,5 +1,11 @@
-# Datasets for Week 1 UP206A
-## 
+## Datasets for Week 1 UP206A
+### Street Light Locations for the City of Los Angeles
+Link to Street Light locations dataset
+> [Street Lights](https://geohub.lacity.org/datasets/5e7c617cd8c141308c79024baa2ffcae/explore)
+
+<br>
+
+### Tree Canopy Coverage for the City of Los Angeles
 Link to Tree Canopy dataset
 > [Los Angeles Bureau of Street Services](https://geohub.lacity.org/datasets/trees-bureau-of-street-services/explore?location=34.019543%2C-118.412051%2C10.60)
 
