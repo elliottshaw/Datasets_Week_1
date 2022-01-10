@@ -1,5 +1,6 @@
 ## Datasets for Week 1 UP206A
 ### Street Light Locations for the City of Los Angeles
+Location of street lights across Los Angeles. Could be used to study zones where increased street lighting is needed
 Link to Street Light locations dataset
 > [Street Lights](https://geohub.lacity.org/datasets/5e7c617cd8c141308c79024baa2ffcae/explore)
 
